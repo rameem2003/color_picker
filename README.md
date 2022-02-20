@@ -1,4 +1,4 @@
-# color_picker (BETA)
+# Color Picker (BETA)
 ## Developer: Mahmood Hassan Rameem
 ## _Studing Diploma Engineering_
 ## _Computer Technology_
